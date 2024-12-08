@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Results</title>
+    <a href="{{ url_for('download_file', file_type='all_results') }}" download>Download All Results</a><br>
+<a href="{{ url_for('download_file', file_type='selected_results') }}" download>Download Selected Results</a><br>
+<a href="{{ url_for('download_file', file_type='not_selected_results') }}" download>Download Not Selected Results</a>
+
+</head>
+<body>
+    <h1>Results</h1>
+    <ul>
+        <li><a href="{{ url_for('download_file', file_type='all_results') }}" download>All Results</a></li>
+        <li><a href="{{ url_for('download_file', file_type='selected_results') }}" download>Selected Results</a></li>
+        <li><a href="{{ url_for('download_file', file_type='not_selected_results') }}" download>Not Selected Results</a></li>
+    </ul>
+</body>
+</html>
