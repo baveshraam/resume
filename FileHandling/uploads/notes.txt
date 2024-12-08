@@ -1,0 +1,16 @@
+
+
+# open() function
+# r - read
+# w - write
+# a - append
+# x - create
+"""
+additional parameters:
+t - text
+b - binary
+"""
+# f = open("samplefile.txt","rt")
+
+f = open("demofile.txt")
+print(f)x

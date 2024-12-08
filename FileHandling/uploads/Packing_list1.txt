@@ -1,0 +1,21 @@
+PACKING LIST
+
+Exporter: Global Traders Co.
+Address: 789 Commerce Blvd, Trade City, CA 98765
+
+Consignee: Mega Retailers
+Address: 456 Shopping Ave, Big City, NY 54321
+
+Packing List Number: PKG-9876
+Date: 2024-11-15
+
+Contents:
+1. 50 Boxes of Wooden Furniture
+2. 30 Bags of Clothing
+3. 100 Electronic Devices
+
+Gross Weight: 1,500 kg
+Net Weight: 1,200 kg
+Dimensions: 3m x 2m x 1.5m
+
+Special Instructions: Handle with care, fragile items.

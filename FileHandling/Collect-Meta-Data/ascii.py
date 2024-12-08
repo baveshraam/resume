@@ -1,0 +1,1 @@
+print(sum([ord(c) for c in input("Enter a string: ")]))

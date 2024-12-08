@@ -1,0 +1,17 @@
+John Doe
+Software Engineer
+john.doe@example.com
++1 234-567-8900
+
+Professional Summary:
+Experienced software engineer with expertise in Python, Java, and AI-driven applications. 
+
+Skills:
+- Python
+- Machine Learning
+- Data Analysis
+- Web Development
+
+Experience:
+1. XYZ Corp (2020-2023): Worked on AI-based document processing systems.
+2. ABC Inc (2017-2020): Developed high-performance web applications.

@@ -1,0 +1,20 @@
+AIR WAYBILL (AWB) / BILL OF LADING (BOL)
+
+Carrier: Air Transport Ltd.
+Flight No: AT5678
+
+Consignee: Ocean Freight Co.
+Shipper: Mountain Logistics Ltd.
+
+AWB No: AWB-111222
+Date: 2024-11-18
+
+Goods: 500 kg of Electronics
+Shipped From: New York, USA
+Shipped To: Tokyo, Japan
+
+Description of Cargo:
+- 50 cartons of Smartphones
+- 25 cartons of Laptops
+
+Terms: FOB (Free on Board)

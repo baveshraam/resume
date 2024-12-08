@@ -1,0 +1,159 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background: #f0f4f8;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: #333;
+}
+
+.upload-container {
+    display: flex;
+    justify-content: space-between;
+    width: 900px;
+    background: #fff;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.upload-area {
+    flex: 1;
+    padding: 20px;
+    background: #f7f9fc;
+    text-align: center;
+    border-right: 1px solid #e0e0e0;
+}
+
+.upload-area h2 {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.drag-drop-zone {
+    border: 2px dashed #4a90e2;
+    border-radius: 10px;
+    padding: 40px;
+    background: #eef4ff;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+.drag-drop-zone:hover {
+    background: #dcefff;
+}
+
+.cloud-icon {
+    font-size: 60px;
+    color: #4a90e2;
+    margin-bottom: 10px;
+}
+
+.drag-drop-zone p {
+    font-size: 14px;
+    color: #666;
+    margin: 15px 0;
+}
+
+#browse-btn {
+    background: #4a90e2;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+#browse-btn:hover {
+    background: #357abd;
+}
+
+.uploaded-files-container {
+    flex: 1;
+    padding: 20px;
+}
+
+.uploaded-files-container h2 {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+#uploaded-files-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    max-height: 250px;
+    overflow-y: auto;
+}
+
+.file-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #f7f7f7;
+    border: 1px solid #ddd;
+    padding: 10px 15px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.file-item span {
+    font-size: 14px;
+    color: #555;
+}
+
+.delete-btn {
+    background: none;
+    border: none;
+    color: #ff4c4c;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.delete-btn:hover {
+    color: #d93636;
+}
+
+.confirm-btn {
+    background: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 14px;
+    cursor: pointer;
+    margin-top: 15px;
+    width: 100%;
+    transition: background 0.3s ease;
+}
+
+.confirm-btn:disabled {
+    background: #a6a6a6;
+    cursor: not-allowed;
+}
+
+.confirm-btn:hover:enabled {
+    background: #3d8b40;
+}
+
+.additional-data-container {
+    margin-top: 20px;
+}
+
+.info-label {
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+#data-input {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    width: 100%;
+    font-size: 14px;
+    margin-bottom: 20px;
+}

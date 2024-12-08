@@ -1,0 +1,19 @@
+DELIVERY ORDER
+
+Consignee: SuperMart
+Address: 456 Market Road, Downtown, NY 12345
+
+Delivery Order No: DO-987654
+Date: 2024-11-20
+
+Shipper: Mega Freight Ltd.
+Carrier: Fast Transport Co.
+
+Goods to Deliver:
+1. 100 kg Rice Bags
+2. 200 kg Wheat Flour
+3. 50 Boxes of Canned Goods
+
+Expected Delivery Date: 2024-11-22
+
+Terms: Delivered Duty Paid (DDP)

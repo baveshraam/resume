@@ -1,0 +1,6 @@
+BILL INVOICE
+DATE 21 November
+Chicken Biryani 220
+Tax 20 
+Total 240
+Shop name

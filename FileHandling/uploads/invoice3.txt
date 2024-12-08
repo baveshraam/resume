@@ -1,0 +1,21 @@
+SuperMart Groceries
+789 Market Street
+Metropolis, NY 98765
+
+Bill No: INV-1001
+Date: 2024-11-01
+
+Customer Name: Bob Johnson
+Receipt No: 123456
+
+Items:
+1. Organic Apples               $5.99
+2. Fresh Milk                   $3.49
+3. Whole Wheat Bread            $2.99
+4. Egg Carton (12 eggs)         $1.89
+
+Subtotal: $14.36
+Tax (7%): $1.00
+Total: $15.36
+
+Thank you for your purchase!

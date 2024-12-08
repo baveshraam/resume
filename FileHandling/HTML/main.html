@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>File Uploader</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="upload-container">
+        <div class="upload-area">
+            <h2>UPLOAD FILES</h2>
+            <div class="drag-drop-zone" id="drag-drop-zone">
+                <div class="cloud-icon">&#8682;</div>
+                <p>Drag & Drop files here <br> OR</p>
+                <button id="browse-btn">Browse Files</button>
+                <input type="file" id="file-input" multiple hidden>
+            </div>
+        </div>
+
+        <div class="uploaded-files-container">
+            <h2>Uploaded Files</h2>
+            <ul id="uploaded-files-list"></ul>
+            <div class="additional-data-container">
+                <input type="text" id="data-input" placeholder="Enter additional data here" />
+            </div>
+            <button id="confirm-btn" class="confirm-btn" disabled>Confirm & Upload</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

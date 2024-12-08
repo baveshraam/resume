@@ -1,0 +1,22 @@
+
+The Cozy Corner
+123 Main Street
+Anytown, CA 12345
+
+Bill No: INV-2345
+Date: 2024-11-22
+
+Customer Name: John Doe
+Table No: 4
+
+Items:
+1. Spicy Chicken Tikka Masala  $15.99
+2. Garlic Naan                  $3.99
+3. Vegetable Biryani           $12.99
+4.  Mango Lassi                 $4.99
+
+Subtotal: $37.96
+Tax (8%): $3.04
+Total: $41.00
+
+Thank you for dining with us!

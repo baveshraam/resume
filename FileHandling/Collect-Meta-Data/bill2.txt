@@ -1,0 +1,26 @@
+Invoice Number: INV-2023-001
+Invoice Date: 2023-11-23
+Table Number: 12
+
+Customer Name: John Doe
+
+Order Summary
+
+| Item | Quantity | Price | Total |
+|---|---|---|---|
+| Garlic Bread | 1 | $5.99 | $5.99 |
+| Mozzarella Sticks | 1 | $8.99 | $8.99 |
+| Margherita Pizza | 1 | $12.99 | $12.99 |
+| Spaghetti Carbonara | 1 | $14.99 | $14.99 |
+| Coca-Cola | 2 | $2.50 | $5.00 |
+| Iced Tea | 2 | $2.00 | $4.00 |
+| Tiramisu | 1 | $7.99 | $7.99 |
+| Service Charge (10%) |  |  | $10.45 |
+| Tax (8%) |  |  | $8.31 |
+
+Total Due: $80.71
+
+Payment Method: Credit Card
+
+Thank you for dining with us!
+[Restaurant Logo]

@@ -1,0 +1,20 @@
+Fancy Electronics Store
+456 Tech Avenue
+Gadget City, ST 54321
+
+Bill No: INV-9876
+Date: 2024-10-15
+
+Customer Name: Alice Smith
+Order ID: 5678
+
+Items Purchased:
+1. 4K TV                          $799.99
+2. Bluetooth Headphones           $129.99
+3. Smart Watch                    $199.99
+
+Subtotal: $1129.97
+Tax (10%): $112.99
+Total: $1242.96
+
+Thank you for shopping with us!
